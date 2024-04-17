@@ -1,0 +1,3 @@
+cd results/original_dat_128X128_size1000/SZ/plots
+python3 line_plot_case1.py
+python3 line_plot_case3.py
